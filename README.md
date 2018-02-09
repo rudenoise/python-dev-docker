@@ -4,7 +4,7 @@
 The aim of this image is to provide a base image for a consistent
 local and remote python development environment.
 
-[Pull nvimage  from Docker Hub](https://hub.docker.com/r/rudenoise/pydev/)
+[Pull `pydev` from Docker Hub](https://hub.docker.com/r/rudenoise/pydev/)
 
 ```bash
 docker pull rudenoise/pydev
